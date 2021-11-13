@@ -1,5 +1,4 @@
 //Prokopkin Ivan by 13.11.2021
-package main.java;
 
 import java.util.*;
 
